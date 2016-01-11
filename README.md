@@ -8,7 +8,7 @@ fonts with a bundle or you can import fonts by one by. This repo is a popular ic
 ### Which fonts are in the pack?
 
 - FontAwesome
-- Material Icosn
+- Material Icons
 - Ion Icons
 
 ### Font-bundle has 2 folder, 1 file.

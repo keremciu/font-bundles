@@ -11,6 +11,11 @@
     "FontAwesome" : {
       "path" : "FontAwesome.json",
       "container" : "<i class='fa fa-*****'></i>"
+    },
+    "simple-line-icons" : {
+      "path" : "simple-line-icons.json",
+      "container" : "<i class='icon-*****'></i>"
     }
   }
 }
+

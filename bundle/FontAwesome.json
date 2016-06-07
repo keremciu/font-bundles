@@ -86,7 +86,8 @@
         "achievement",
         "night",
         "rating",
-        "score"
+        "score",
+        "favorite"
       ],
       "categories": [
         "Web Application Icons"
@@ -102,7 +103,8 @@
         "achievement",
         "night",
         "rating",
-        "score"
+        "score",
+        "favorite"
       ],
       "categories": [
         "Web Application Icons"
@@ -143,7 +145,8 @@
       "filter": [
         "blocks",
         "squares",
-        "boxes"
+        "boxes",
+        "grid"
       ],
       "categories": [
         "Text Editor Icons"
@@ -157,7 +160,8 @@
       "filter": [
         "blocks",
         "squares",
-        "boxes"
+        "boxes",
+        "grid"
       ],
       "categories": [
         "Text Editor Icons"
@@ -192,7 +196,9 @@
         "todo",
         "agree",
         "accept",
-        "confirm"
+        "confirm",
+        "tick",
+        "ok"
       ],
       "categories": [
         "Web Application Icons"
@@ -210,7 +216,8 @@
       "filter": [
         "close",
         "exit",
-        "x"
+        "x",
+        "cross"
       ],
       "categories": [
         "Web Application Icons"
@@ -263,6 +270,10 @@
       "id": "signal",
       "unicode": "f012",
       "created": 1,
+      "filter": [
+        "graph",
+        "bars"
+      ],
       "categories": [
         "Web Application Icons"
       ]
@@ -428,7 +439,8 @@
       "unicode": "f021",
       "created": 1,
       "filter": [
-        "reload"
+        "reload",
+        "sync"
       ],
       "categories": [
         "Web Application Icons",
@@ -488,7 +500,8 @@
       "filter": [
         "sound",
         "listen",
-        "music"
+        "music",
+        "audio"
       ],
       "categories": [
         "Web Application Icons"
@@ -500,6 +513,7 @@
       "unicode": "f026",
       "created": 1,
       "filter": [
+        "audio",
         "mute",
         "sound",
         "music"
@@ -514,6 +528,7 @@
       "unicode": "f027",
       "created": 1,
       "filter": [
+        "audio",
         "lower",
         "quieter",
         "sound",
@@ -529,6 +544,7 @@
       "unicode": "f028",
       "created": 1,
       "filter": [
+        "audio",
         "higher",
         "louder",
         "sound",
@@ -852,7 +868,10 @@
       "unicode": "f043",
       "created": 1,
       "filter": [
-        "raindrop"
+        "raindrop",
+        "waterdrop",
+        "drop",
+        "droplet"
       ],
       "categories": [
         "Web Application Icons"
@@ -882,7 +901,8 @@
       "created": 1,
       "filter": [
         "social",
-        "send"
+        "send",
+        "arrow"
       ],
       "categories": [
         "Web Application Icons"
@@ -898,7 +918,8 @@
         "done",
         "agree",
         "accept",
-        "confirm"
+        "confirm",
+        "ok"
       ],
       "categories": [
         "Web Application Icons",
@@ -1138,7 +1159,8 @@
         "done",
         "agree",
         "accept",
-        "confirm"
+        "confirm",
+        "ok"
       ],
       "categories": [
         "Web Application Icons"
@@ -1210,7 +1232,8 @@
         "done",
         "agree",
         "accept",
-        "confirm"
+        "confirm",
+        "ok"
       ],
       "categories": [
         "Web Application Icons"
@@ -1404,7 +1427,8 @@
       "created": 1,
       "filter": [
         "eco",
-        "nature"
+        "nature",
+        "plant"
       ],
       "categories": [
         "Web Application Icons"
@@ -1501,7 +1525,8 @@
       "filter": [
         "date",
         "time",
-        "when"
+        "when",
+        "event"
       ],
       "categories": [
         "Web Application Icons"
@@ -1532,7 +1557,10 @@
         "note",
         "chat",
         "bubble",
-        "feedback"
+        "feedback",
+        "message",
+        "texting",
+        "sms"
       ],
       "categories": [
         "Web Application Icons"
@@ -1730,7 +1758,11 @@
       "filter": [
         "conversation",
         "notification",
-        "notes"
+        "notes",
+        "message",
+        "texting",
+        "sms",
+        "chat"
       ],
       "categories": [
         "Web Application Icons"
@@ -1892,6 +1924,7 @@
       "id": "github-square",
       "unicode": "f092",
       "created": 1,
+      "url": "github.com/logos",
       "filter": [
         "octocat"
       ],
@@ -1916,6 +1949,9 @@
       "id": "lemon-o",
       "unicode": "f094",
       "created": 1,
+      "filter": [
+        "food"
+      ],
       "categories": [
         "Web Application Icons"
       ]
@@ -2011,6 +2047,7 @@
       "id": "github",
       "unicode": "f09b",
       "created": 2,
+      "url": "github.com/logos",
       "filter": [
         "octocat"
       ],
@@ -2026,7 +2063,8 @@
       "filter": [
         "protect",
         "admin",
-        "password"
+        "password",
+        "lock"
       ],
       "categories": [
         "Web Application Icons"
@@ -2131,7 +2169,8 @@
         "point",
         "right",
         "next",
-        "forward"
+        "forward",
+        "finger"
       ],
       "categories": [
         "Directional Icons",
@@ -2147,7 +2186,8 @@
         "point",
         "left",
         "previous",
-        "back"
+        "back",
+        "finger"
       ],
       "categories": [
         "Directional Icons",
@@ -2160,7 +2200,8 @@
       "unicode": "f0a6",
       "created": 2,
       "filter": [
-        "point"
+        "point",
+        "finger"
       ],
       "categories": [
         "Directional Icons",
@@ -2173,7 +2214,8 @@
       "unicode": "f0a7",
       "created": 2,
       "filter": [
-        "point"
+        "point",
+        "finger"
       ],
       "categories": [
         "Directional Icons",
@@ -2323,7 +2365,8 @@
         "bigger",
         "move",
         "reorder",
-        "resize"
+        "resize",
+        "arrow"
       ],
       "categories": [
         "Video Player Icons",
@@ -2407,7 +2450,9 @@
       "unicode": "f0c5",
       "created": 2,
       "filter": [
-        "duplicate"
+        "duplicate",
+        "clone",
+        "copy"
       ],
       "aliases": [
         "copy"
@@ -2641,7 +2686,9 @@
       "filter": [
         "more",
         "dropdown",
-        "menu"
+        "menu",
+        "triangle down",
+        "arrow"
       ],
       "categories": [
         "Directional Icons"
@@ -2652,6 +2699,10 @@
       "id": "caret-up",
       "unicode": "f0d8",
       "created": 2,
+      "filter": [
+        "triangle up",
+        "arrow"
+      ],
       "categories": [
         "Directional Icons"
       ]
@@ -2663,7 +2714,9 @@
       "created": 2,
       "filter": [
         "previous",
-        "back"
+        "back",
+        "triangle left",
+        "arrow"
       ],
       "categories": [
         "Directional Icons"
@@ -2676,7 +2729,9 @@
       "created": 2,
       "filter": [
         "next",
-        "forward"
+        "forward",
+        "triangle right",
+        "arrow"
       ],
       "categories": [
         "Directional Icons"
@@ -2718,7 +2773,8 @@
       "filter": [
         "dropdown",
         "more",
-        "menu"
+        "menu",
+        "arrow"
       ],
       "aliases": [
         "sort-down"
@@ -2734,6 +2790,9 @@
       "created": 2,
       "aliases": [
         "sort-up"
+      ],
+      "filter": [
+        "arrow"
       ],
       "categories": [
         "Web Application Icons"
@@ -2819,8 +2878,15 @@
       "unicode": "f0e5",
       "created": 2,
       "filter": [
+        "speech",
         "notification",
-        "note"
+        "note",
+        "chat",
+        "bubble",
+        "feedback",
+        "message",
+        "texting",
+        "sms"
       ],
       "categories": [
         "Web Application Icons"
@@ -2834,7 +2900,11 @@
       "filter": [
         "conversation",
         "notification",
-        "notes"
+        "notes",
+        "message",
+        "texting",
+        "sms",
+        "chat"
       ],
       "categories": [
         "Web Application Icons"
@@ -2913,7 +2983,9 @@
       "unicode": "f0ec",
       "created": 3,
       "filter": [
-        "transfer"
+        "transfer",
+        "arrows",
+        "arrow"
       ],
       "categories": [
         "Web Application Icons",
@@ -3082,6 +3154,7 @@
       "unicode": "f0f9",
       "created": 3,
       "filter": [
+        "vehicle",
         "support",
         "help"
       ],
@@ -3180,7 +3253,8 @@
         "laquo",
         "quote",
         "previous",
-        "back"
+        "back",
+        "arrows"
       ],
       "categories": [
         "Directional Icons"
@@ -3195,7 +3269,8 @@
         "raquo",
         "quote",
         "next",
-        "forward"
+        "forward",
+        "arrows"
       ],
       "categories": [
         "Directional Icons"
@@ -3206,6 +3281,9 @@
       "id": "angle-double-up",
       "unicode": "f102",
       "created": 3,
+      "filter": [
+        "arrows"
+      ],
       "categories": [
         "Directional Icons"
       ]
@@ -3215,6 +3293,9 @@
       "id": "angle-double-down",
       "unicode": "f103",
       "created": 3,
+      "filter": [
+        "arrows"
+      ],
       "categories": [
         "Directional Icons"
       ]
@@ -3226,7 +3307,8 @@
       "created": 3,
       "filter": [
         "previous",
-        "back"
+        "back",
+        "arrow"
       ],
       "categories": [
         "Directional Icons"
@@ -3239,7 +3321,8 @@
       "created": 3,
       "filter": [
         "next",
-        "forward"
+        "forward",
+        "arrow"
       ],
       "categories": [
         "Directional Icons"
@@ -3250,6 +3333,9 @@
       "id": "angle-up",
       "unicode": "f106",
       "created": 3,
+      "filter": [
+        "arrow"
+      ],
       "categories": [
         "Directional Icons"
       ]
@@ -3259,6 +3345,9 @@
       "id": "angle-down",
       "unicode": "f107",
       "created": 3,
+      "filter": [
+        "arrow"
+      ],
       "categories": [
         "Directional Icons"
       ]
@@ -3400,6 +3489,7 @@
       "id": "github-alt",
       "unicode": "f113",
       "created": 3,
+      "url": "github.com/logos",
       "filter": [
         "octocat"
       ],
@@ -3431,6 +3521,7 @@
       "unicode": "f118",
       "created": 3.1,
       "filter": [
+        "face",
         "emoticon",
         "happy",
         "approve",
@@ -3447,6 +3538,7 @@
       "unicode": "f119",
       "created": 3.1,
       "filter": [
+        "face",
         "emoticon",
         "sad",
         "disapprove",
@@ -3462,6 +3554,7 @@
       "unicode": "f11a",
       "created": 3.1,
       "filter": [
+        "face",
         "emoticon",
         "rating",
         "neutral"
@@ -3713,6 +3806,10 @@
       "id": "eraser",
       "unicode": "f12d",
       "created": 3.1,
+      "filter": [
+        "remove",
+        "delete"
+      ],
       "categories": [
         "Text Editor Icons",
         "Web Application Icons"
@@ -3783,7 +3880,8 @@
       "filter": [
         "date",
         "time",
-        "when"
+        "when",
+        "event"
       ],
       "categories": [
         "Web Application Icons"
@@ -3827,7 +3925,8 @@
       "created": 3.1,
       "filter": [
         "previous",
-        "back"
+        "back",
+        "arrow"
       ],
       "categories": [
         "Directional Icons"
@@ -3840,7 +3939,8 @@
       "created": 3.1,
       "filter": [
         "next",
-        "forward"
+        "forward",
+        "arrow"
       ],
       "categories": [
         "Directional Icons"
@@ -3851,6 +3951,9 @@
       "id": "chevron-circle-up",
       "unicode": "f139",
       "created": 3.1,
+      "filter": [
+        "arrow"
+      ],
       "categories": [
         "Directional Icons"
       ]
@@ -3863,7 +3966,8 @@
       "filter": [
         "more",
         "dropdown",
-        "menu"
+        "menu",
+        "arrow"
       ],
       "categories": [
         "Directional Icons"
@@ -3914,7 +4018,8 @@
       "filter": [
         "protect",
         "admin",
-        "password"
+        "password",
+        "lock"
       ],
       "categories": [
         "Web Application Icons"
@@ -4039,6 +4144,9 @@
       "id": "level-up",
       "unicode": "f148",
       "created": 3.1,
+      "filter": [
+        "arrow"
+      ],
       "categories": [
         "Web Application Icons"
       ]
@@ -4048,6 +4156,9 @@
       "id": "level-down",
       "unicode": "f149",
       "created": 3.1,
+      "filter": [
+        "arrow"
+      ],
       "categories": [
         "Web Application Icons"
       ]
@@ -4063,7 +4174,8 @@
         "todo",
         "agree",
         "accept",
-        "confirm"
+        "confirm",
+        "ok"
       ],
       "categories": [
         "Web Application Icons",
@@ -4475,7 +4587,7 @@
       "name": "Instagram",
       "id": "instagram",
       "unicode": "f16d",
-      "created": 3.2,
+      "created": 4.6,
       "categories": [
         "Brand Icons"
       ]
@@ -4586,7 +4698,8 @@
       "unicode": "f179",
       "created": 3.2,
       "filter": [
-        "osx"
+        "osx",
+        "food"
       ],
       "categories": [
         "Brand Icons"
@@ -4609,6 +4722,9 @@
       "id": "android",
       "unicode": "f17b",
       "created": 3.2,
+      "filter": [
+        "robot"
+      ],
       "categories": [
         "Brand Icons"
       ]
@@ -4890,7 +5006,8 @@
       "categories": [
         "Web Application Icons",
         "Medical Icons",
-        "Transportation Icons"
+        "Transportation Icons",
+        "Accessibility Icons"
       ]
     },
     {
@@ -4946,6 +5063,11 @@
       "id": "slack",
       "unicode": "f198",
       "created": 4.1,
+      "filter": [
+        "hashtag",
+        "anchor",
+        "hash"
+      ],
       "categories": [
         "Brand Icons"
       ]
@@ -5080,8 +5202,8 @@
       ]
     },
     {
-      "name": "Pied Piper Logo",
-      "id": "pied-piper",
+      "name": "Pied Piper PP Logo (Old)",
+      "id": "pied-piper-pp",
       "unicode": "f1a7",
       "created": 4.1,
       "categories": [
@@ -5482,7 +5604,8 @@
       "unicode": "f1d0",
       "created": 4.1,
       "aliases": [
-        "ra"
+        "ra",
+        "resistance"
       ],
       "categories": [
         "Brand Icons"
@@ -5609,6 +5732,9 @@
       "id": "header",
       "unicode": "f1dc",
       "created": 4.1,
+      "filter": [
+        "heading"
+      ],
       "categories": [
         "Text Editor Icons"
       ]
@@ -5627,6 +5753,9 @@
       "id": "sliders",
       "unicode": "f1de",
       "created": 4.1,
+      "filter": [
+        "settings"
+      ],
       "categories": [
         "Web Application Icons"
       ]
@@ -5678,7 +5807,8 @@
       "unicode": "f1e4",
       "created": 4.2,
       "categories": [
-        "Web Application Icons"
+        "Web Application Icons",
+        "Accessibility Icons"
       ]
     },
     {
@@ -5695,6 +5825,10 @@
       "id": "plug",
       "unicode": "f1e6",
       "created": 4.2,
+      "filter": [
+        "power",
+        "connect"
+      ],
       "categories": [
         "Web Application Icons"
       ]
@@ -5811,6 +5945,9 @@
       "id": "cc-amex",
       "unicode": "f1f3",
       "created": 4.2,
+      "filter": [
+        "amex"
+      ],
       "categories": [
         "Brand Icons",
         "Payment Icons"
@@ -5859,6 +5996,12 @@
       "id": "trash",
       "unicode": "f1f8",
       "created": 4.2,
+      "filter": [
+        "garbage",
+        "delete",
+        "remove",
+        "hide"
+      ],
       "categories": [
         "Web Application Icons"
       ]
@@ -6038,7 +6181,8 @@
       "unicode": "f20a",
       "created": 4.2,
       "categories": [
-        "Web Application Icons"
+        "Web Application Icons",
+        "Accessibility Icons"
       ]
     },
     {
@@ -6214,7 +6358,8 @@
       "filter": [
         "whisper",
         "spy",
-        "incognito"
+        "incognito",
+        "privacy"
       ],
       "categories": [
         "Web Application Icons"
@@ -6429,6 +6574,10 @@
       "id": "user-plus",
       "unicode": "f234",
       "created": 4.3,
+      "filter": [
+        "sign up",
+        "signup"
+      ],
       "categories": [
         "Web Application Icons"
       ]
@@ -6543,6 +6692,9 @@
       "aliases": [
         "battery-4"
       ],
+      "filter": [
+        "power"
+      ],
       "categories": [
         "Web Application Icons"
       ]
@@ -6554,6 +6706,9 @@
       "created": 4.4,
       "aliases": [
         "battery-3"
+      ],
+      "filter": [
+        "power"
       ],
       "categories": [
         "Web Application Icons"
@@ -6567,6 +6722,9 @@
       "aliases": [
         "battery-2"
       ],
+      "filter": [
+        "power"
+      ],
       "categories": [
         "Web Application Icons"
       ]
@@ -6579,6 +6737,9 @@
       "aliases": [
         "battery-1"
       ],
+      "filter": [
+        "power"
+      ],
       "categories": [
         "Web Application Icons"
       ]
@@ -6590,6 +6751,9 @@
       "created": 4.4,
       "aliases": [
         "battery-0"
+      ],
+      "filter": [
+        "power"
       ],
       "categories": [
         "Web Application Icons"
@@ -6765,6 +6929,9 @@
       "aliases": [
         "hand-stop-o"
       ],
+      "filter": [
+        "stop"
+      ],
       "categories": [
         "Web Application Icons",
         "Hand Icons"
@@ -6917,6 +7084,9 @@
       "id": "safari",
       "unicode": "f267",
       "created": 4.4,
+      "filter": [
+        "browser"
+      ],
       "categories": [
         "Brand Icons"
       ]
@@ -6926,6 +7096,9 @@
       "id": "chrome",
       "unicode": "f268",
       "created": 4.4,
+      "filter": [
+        "browser"
+      ],
       "categories": [
         "Brand Icons"
       ]
@@ -6935,6 +7108,9 @@
       "id": "firefox",
       "unicode": "f269",
       "created": 4.4,
+      "filter": [
+        "browser"
+      ],
       "categories": [
         "Brand Icons"
       ]
@@ -6953,6 +7129,10 @@
       "id": "internet-explorer",
       "unicode": "f26b",
       "created": 4.4,
+      "filter": [
+        "browser",
+        "ie"
+      ],
       "categories": [
         "Brand Icons"
       ]
@@ -6964,6 +7144,11 @@
       "created": 4.4,
       "aliases": [
         "tv"
+      ],
+      "filter": [
+        "display",
+        "computer",
+        "monitor"
       ],
       "categories": [
         "Web Application Icons"
@@ -7028,6 +7213,9 @@
       "id": "calendar-check-o",
       "unicode": "f274",
       "created": 4.4,
+      "filter": [
+        "ok"
+      ],
       "categories": [
         "Web Application Icons"
       ]
@@ -7037,6 +7225,9 @@
       "id": "industry",
       "unicode": "f275",
       "created": 4.4,
+      "filter": [
+        "factory"
+      ],
       "categories": [
         "Web Application Icons"
       ]
@@ -7082,6 +7273,9 @@
       "id": "commenting",
       "unicode": "f27a",
       "created": 4.4,
+      "filter": [
+        "message"
+      ],
       "categories": [
         "Web Application Icons"
       ]
@@ -7091,6 +7285,9 @@
       "id": "commenting-o",
       "unicode": "f27b",
       "created": 4.4,
+      "filter": [
+        "message"
+      ],
       "categories": [
         "Web Application Icons"
       ]
@@ -7134,24 +7331,43 @@
       ]
     },
     {
-      "name": "Bluetooth",
-      "id": "bluetooth",
-      "unicode": "f293",
+      "name": "reddit Alien",
+      "id": "reddit-alien",
+      "unicode": "f281",
       "created": 4.5,
-      "url": "fonticons.com",
       "categories": [
-        "Brand Icons",
-        "Web Application Icons"
+        "Brand Icons"
       ]
     },
     {
-      "name": "Bluetooth-B",
-      "id": "bluetooth-b",
-      "unicode": "f294",
+      "name": "Edge Browser",
+      "id": "edge",
+      "unicode": "f282",
       "created": 4.5,
-      "url": "fonticons.com",
+      "filter": [
+        "browser",
+        "ie"
+      ],
       "categories": [
-        "Brand Icons",
+        "Brand Icons"
+      ]
+    },
+    {
+      "name": "Credit Card",
+      "id": "credit-card-alt",
+      "unicode": "f283",
+      "created": 4.5,
+      "filter": [
+        "money",
+        "buy",
+        "debit",
+        "checkout",
+        "purchase",
+        "payment",
+        "credit card"
+      ],
+      "categories": [
+        "Payment Icons",
         "Web Application Icons"
       ]
     },
@@ -7160,58 +7376,7 @@
       "id": "codiepie",
       "unicode": "f284",
       "created": 4.5,
-      "url": "fonticons.com",
-      "categories": [
-        "Brand Icons"
-      ]
-    },
-    {
-      "name": "Credit Card Alt",
-      "id": "credit-card-alt",
-      "unicode": "f283",
-      "created": 4.5,
-      "url": "fonticons.com",
-      "categories": [
-        "Payment Icons",
-        "Web Application Icons"
-      ]
-    },
-    {
-      "name": "Edge",
-      "id": "edge",
-      "unicode": "f282",
-      "created": 4.5,
-      "url": "fonticons.com",
-      "categories": [
-        "Brand Icons"
-      ]
-    },
-    {
-      "name": "Fort Awesome",
-      "id": "fort-awesome",
-      "unicode": "f286",
-      "created": 4.5,
-      "url": "fonticons.com",
-      "categories": [
-        "Brand Icons"
-      ]
-    },
-    {
-      "name": "Hashtag",
-      "id": "hashtag",
-      "unicode": "f292",
-      "created": 4.5,
-      "url": "fonticons.com",
-      "categories": [
-        "Web Application Icons"
-      ]
-    },
-    {
-      "name": "Mixcloud",
-      "id": "mixcloud",
-      "unicode": "f289",
-      "created": 4.5,
-      "url": "fonticons.com",
+      "url": "codiepie.com",
       "categories": [
         "Brand Icons"
       ]
@@ -7221,39 +7386,27 @@
       "id": "modx",
       "unicode": "f285",
       "created": 4.5,
-      "url": "fonticons.com",
       "categories": [
         "Brand Icons"
       ]
     },
     {
-      "name": "Pause Circle",
-      "id": "pause-circle",
-      "unicode": "f28b",
+      "name": "Fort Awesome",
+      "id": "fort-awesome",
+      "unicode": "f286",
       "created": 4.5,
-      "url": "fonticons.com",
+      "url": "fortawesome.com",
       "categories": [
-        "Video Player Icons"
+        "Brand Icons"
       ]
     },
     {
-      "name": "Pause Circle Outline",
-      "id": "pause-circle-o",
-      "unicode": "f28c",
+      "name": "USB",
+      "id": "usb",
+      "unicode": "f287",
       "created": 4.5,
-      "url": "fonticons.com",
       "categories": [
-        "Video Player Icons"
-      ]
-    },
-    {
-      "name": "Percent",
-      "id": "percent",
-      "unicode": "f295",
-      "created": 4.5,
-      "url": "fonticons.com",
-      "categories": [
-        "Web Application Icons"
+        "Brand Icons"
       ]
     },
     {
@@ -7261,17 +7414,15 @@
       "id": "product-hunt",
       "unicode": "f288",
       "created": 4.5,
-      "url": "fonticons.com",
       "categories": [
         "Brand Icons"
       ]
     },
     {
-      "name": "Reddit Alien",
-      "id": "reddit-alien",
-      "unicode": "f281",
+      "name": "Mixcloud",
+      "id": "mixcloud",
+      "unicode": "f289",
       "created": 4.5,
-      "url": "fonticons.com",
       "categories": [
         "Brand Icons"
       ]
@@ -7281,9 +7432,44 @@
       "id": "scribd",
       "unicode": "f28a",
       "created": 4.5,
-      "url": "fonticons.com",
       "categories": [
         "Brand Icons"
+      ]
+    },
+    {
+      "name": "Pause Circle",
+      "id": "pause-circle",
+      "unicode": "f28b",
+      "created": 4.5,
+      "categories": [
+        "Video Player Icons"
+      ]
+    },
+    {
+      "name": "Pause Circle Outlined",
+      "id": "pause-circle-o",
+      "unicode": "f28c",
+      "created": 4.5,
+      "categories": [
+        "Video Player Icons"
+      ]
+    },
+    {
+      "name": "Stop Circle",
+      "id": "stop-circle",
+      "unicode": "f28d",
+      "created": 4.5,
+      "categories": [
+        "Video Player Icons"
+      ]
+    },
+    {
+      "name": "Stop Circle Outlined",
+      "id": "stop-circle-o",
+      "unicode": "f28e",
+      "created": 4.5,
+      "categories": [
+        "Video Player Icons"
       ]
     },
     {
@@ -7291,7 +7477,6 @@
       "id": "shopping-bag",
       "unicode": "f290",
       "created": 4.5,
-      "url": "fonticons.com",
       "categories": [
         "Web Application Icons"
       ]
@@ -7301,41 +7486,345 @@
       "id": "shopping-basket",
       "unicode": "f291",
       "created": 4.5,
-      "url": "fonticons.com",
       "categories": [
         "Web Application Icons"
       ]
     },
     {
-      "name": "Stop Circle",
-      "id": "stop-circle",
-      "unicode": "f28d",
+      "name": "Hashtag",
+      "id": "hashtag",
+      "unicode": "f292",
       "created": 4.5,
-      "url": "fonticons.com",
       "categories": [
-        "Video Player Icons"
+        "Web Application Icons"
       ]
     },
     {
-      "name": "Stop Circle Outline",
-      "id": "stop-circle-o",
-      "unicode": "f28e",
+      "name": "Bluetooth",
+      "id": "bluetooth",
+      "unicode": "f293",
       "created": 4.5,
-      "url": "fonticons.com",
       "categories": [
-        "Video Player Icons"
+        "Web Application Icons",
+        "Brand Icons"
       ]
     },
     {
-      "name": "USB",
-      "id": "usb",
-      "unicode": "f287",
+      "name": "Bluetooth",
+      "id": "bluetooth-b",
+      "unicode": "f294",
       "created": 4.5,
-      "url": "fonticons.com",
+      "categories": [
+        "Web Application Icons",
+        "Brand Icons"
+      ]
+    },
+    {
+      "name": "Percent",
+      "id": "percent",
+      "unicode": "f295",
+      "created": 4.5,
+      "categories": [
+        "Web Application Icons"
+      ]
+    },
+    {
+      "name": "GitLab",
+      "id": "gitlab",
+      "unicode": "f296",
+      "created": 4.6,
+      "url": "gitlab.com",
+      "categories": [
+        "Brand Icons"
+      ]
+    },
+    {
+      "name": "WPBeginner",
+      "id": "wpbeginner",
+      "unicode": "f297",
+      "created": 4.6,
+      "url": "wpbeginner.com",
+      "categories": [
+        "Brand Icons"
+      ]
+    },
+    {
+      "name": "WPForms",
+      "id": "wpforms",
+      "unicode": "f298",
+      "created": 4.6,
+      "url": "wpforms.com",
+      "categories": [
+        "Brand Icons"
+      ]
+    },
+    {
+      "name": "Envira Gallery",
+      "id": "envira",
+      "unicode": "f299",
+      "created": 4.6,
+      "url": "enviragallery.com",
+      "filter": [
+        "leaf"
+      ],
+      "categories": [
+        "Brand Icons"
+      ]
+    },
+    {
+      "name": "Universal Access",
+      "id": "universal-access",
+      "unicode": "f29a",
+      "created": 4.6,
+      "categories": [
+        "Web Application Icons",
+        "Accessibility Icons"
+      ]
+    },
+    {
+      "name": "Wheelchair Alt",
+      "id": "wheelchair-alt",
+      "unicode": "f29b",
+      "created": 4.6,
+      "categories": [
+        "Web Application Icons",
+        "Accessibility Icons"
+      ]
+    },
+    {
+      "name": "Question Circle Outlined",
+      "id": "question-circle-o",
+      "unicode": "f29c",
+      "created": 4.6,
+      "categories": [
+        "Web Application Icons",
+        "Accessibility Icons"
+      ]
+    },
+    {
+      "name": "Blind",
+      "id": "blind",
+      "unicode": "f29d",
+      "created": 4.6,
+      "categories": [
+        "Web Application Icons",
+        "Accessibility Icons"
+      ]
+    },
+    {
+      "name": "Audio Description",
+      "id": "audio-description",
+      "unicode": "f29e",
+      "created": 4.6,
+      "categories": [
+        "Web Application Icons",
+        "Accessibility Icons"
+      ]
+    },
+    {
+      "name": "Volume Control Phone",
+      "id": "volume-control-phone",
+      "unicode": "f2a0",
+      "created": 4.6,
+      "categories": [
+        "Web Application Icons",
+        "Accessibility Icons"
+      ]
+    },
+    {
+      "name": "Braille",
+      "id": "braille",
+      "unicode": "f2a1",
+      "created": 4.6,
+      "categories": [
+        "Web Application Icons",
+        "Accessibility Icons"
+      ]
+    },
+    {
+      "name": "Assistive Listening Systems",
+      "id": "assistive-listening-systems",
+      "unicode": "f2a2",
+      "created": 4.6,
+      "categories": [
+        "Web Application Icons",
+        "Accessibility Icons"
+      ]
+    },
+    {
+      "name": "American Sign Language Interpreting",
+      "id": "american-sign-language-interpreting",
+      "unicode": "f2a3",
+      "created": 4.6,
+      "aliases": [
+        "asl-interpreting"
+      ],
+      "categories": [
+        "Web Application Icons",
+        "Accessibility Icons"
+      ]
+    },
+    {
+      "name": "Deaf",
+      "id": "deaf",
+      "unicode": "f2a4",
+      "created": 4.6,
+      "aliases": [
+        "deafness",
+        "hard-of-hearing"
+      ],
+      "categories": [
+        "Web Application Icons",
+        "Accessibility Icons"
+      ]
+    },
+    {
+      "name": "Glide",
+      "id": "glide",
+      "unicode": "f2a5",
+      "created": 4.6,
+      "categories": [
+        "Brand Icons"
+      ]
+    },
+    {
+      "name": "Glide G",
+      "id": "glide-g",
+      "unicode": "f2a6",
+      "created": 4.6,
+      "categories": [
+        "Brand Icons"
+      ]
+    },
+    {
+      "name": "Sign Language",
+      "id": "sign-language",
+      "unicode": "f2a7",
+      "created": 4.6,
+      "aliases": [
+        "signing"
+      ],
+      "categories": [
+        "Web Application Icons",
+        "Accessibility Icons"
+      ]
+    },
+    {
+      "name": "Low Vision",
+      "id": "low-vision",
+      "unicode": "f2a8",
+      "created": 4.6,
+      "categories": [
+        "Web Application Icons",
+        "Accessibility Icons"
+      ]
+    },
+    {
+      "name": "Viadeo",
+      "id": "viadeo",
+      "unicode": "f2a9",
+      "created": 4.6,
+      "categories": [
+        "Brand Icons"
+      ]
+    },
+    {
+      "name": "Viadeo Square",
+      "id": "viadeo-square",
+      "unicode": "f2aa",
+      "created": 4.6,
+      "categories": [
+        "Brand Icons"
+      ]
+    },
+    {
+      "name": "Snapchat",
+      "id": "snapchat",
+      "unicode": "f2ab",
+      "created": 4.6,
+      "categories": [
+        "Brand Icons"
+      ]
+    },
+    {
+      "name": "Snapchat Ghost",
+      "id": "snapchat-ghost",
+      "unicode": "f2ac",
+      "created": 4.6,
+      "categories": [
+        "Brand Icons"
+      ]
+    },
+    {
+      "name": "Snapchat Square",
+      "id": "snapchat-square",
+      "unicode": "f2ad",
+      "created": 4.6,
+      "categories": [
+        "Brand Icons"
+      ]
+    },
+    {
+      "name": "Pied Piper Logo",
+      "id": "pied-piper",
+      "unicode": "f2ae",
+      "created": 4.6,
+      "categories": [
+        "Brand Icons"
+      ]
+    },
+    {
+      "name": "First Order",
+      "id": "first-order",
+      "unicode": "f2b0",
+      "created": 4.6,
+      "categories": [
+        "Brand Icons"
+      ]
+    },
+    {
+      "name": "Yoast",
+      "id": "yoast",
+      "unicode": "f2b1",
+      "created": 4.6,
+      "url": "yoast.com",
+      "categories": [
+        "Brand Icons"
+      ]
+    },
+    {
+      "name": "ThemeIsle",
+      "id": "themeisle",
+      "unicode": "f2b2",
+      "created": 4.6,
+      "url": "themeisle.com",
+      "categories": [
+        "Brand Icons"
+      ]
+    },
+    {
+      "name": "Google Plus Official",
+      "id": "google-plus-official",
+      "unicode": "f2b3",
+      "created": 4.6,
+      "aliases": [
+        "google-plus-circle"
+      ],
+      "categories": [
+        "Brand Icons"
+      ]
+    },
+    {
+      "name": "Font Awesome",
+      "id": "font-awesome",
+      "unicode": "f2b4",
+      "created": 4.6,
+      "aliases": [
+        "fa"
+      ],
       "categories": [
         "Brand Icons"
       ]
     }
   ]
 }
-

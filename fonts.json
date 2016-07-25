@@ -4,9 +4,9 @@
       "path" : "Ionicons.json",
       "container" : "<i class='icon ion-*****'></i>"
     },
-    "MaterialIcons-Regular" : {
-      "path" : "MaterialIcons-Regular.json",
-      "container" : "<i class='material-icons'>*****</i>"
+    "materialicons-regular" : {
+      "path" : "materialicons-regular.json",
+      "container" : "<i class='material-icons-*****'></i>"
     },
     "FontAwesome" : {
       "path" : "FontAwesome.json",
@@ -18,4 +18,3 @@
     }
   }
 }
-

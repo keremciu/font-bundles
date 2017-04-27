@@ -19,7 +19,7 @@ This repo contains a font bundle with the most popular icon fonts.
 
 ### Installation
 
-- Open the *"ttf-files"* folder and double-click on each font file to instal it. Consult your Mac's Help system if you need assistance on learning how to instal new fonts in your system.
+- Open the *"ttf-files"* folder and double-click on each font file to install it. Consult your Mac's Help system if you need assistance on learning how to instal new fonts in your system.
 - Open Sketch, and select the "Install a font-bundle" command from the IconFont Sketch plugin. An 'Open' dialog box will appear.
 - In the Open dialog box, select the "font-bundles-master" folder you downloaded from this repo.
 - NOW, use your fonts from the IconFont plugin!

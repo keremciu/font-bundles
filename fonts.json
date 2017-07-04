@@ -15,6 +15,10 @@
     "simple-line-icons" : {
       "path" : "simple-line-icons.json",
       "container" : "<i class='icon-*****'></i>"
+    },
+    "anticon" : {
+      "path" : "anticon.json",
+      "container" : "<Icon type='*****' />"
     }
   }
 }

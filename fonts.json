@@ -18,7 +18,7 @@
     },
     "anticon" : {
       "path" : "anticon.json",
-      "container" : "<i class='anticon anticon-*****'></i>"
+      "container" : "<Icon type='*****' />"
     }
   }
 }

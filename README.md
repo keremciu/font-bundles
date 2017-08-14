@@ -10,6 +10,7 @@ This repo contains a font bundle with the most popular icon fonts.
 - Material Design Icons
 - Ion Icons
 - Simple Line Icons (@bohn002)
+- Ant Design Icons
 
 ### Bundle Contents
 

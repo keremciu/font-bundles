@@ -2,7 +2,7 @@
   "fonts" : {
     "Ionicons" : {
       "path" : "Ionicons.json",
-      "container" : "<i class='icon ion-*****'></i>"
+      "container" : "<i class='icon *****'></i>"
     },
     "material" : {
       "path" : "material.json",

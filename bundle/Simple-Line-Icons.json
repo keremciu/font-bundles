@@ -205,9 +205,33 @@
       "created": 1
     },
     {
+      "name": "Minus",
+      "id": "minus",
+      "unicode": "e615",
+      "created": 1
+    },
+    {
       "name": "Close",
       "id": "close",
       "unicode": "e082",
+      "created": 1
+    },
+    {
+      "name": "Event",
+      "id": "event",
+      "unicode": "e619",
+      "created": 1
+    },
+    {
+      "name": "Exclamation",
+      "id": "exclamation",
+      "unicode": "e617",
+      "created": 1
+    },
+    {
+      "name": "organization",
+      "id": "organization",
+      "unicode": "e616",
       "created": 1
     },
     {
@@ -1096,6 +1120,18 @@
       "name": "Social-dropbox",
       "id": "social-dropbox",
       "unicode": "e00c",
+      "created": 1
+    },
+    {
+      "name": "Social-vkontakte",
+      "id": "social-vkontakte",
+      "unicode": "e618",
+      "created": 1
+    },
+    {
+      "name": "Social-steam",
+      "id": "social-steam",
+      "unicode": "e620",
       "created": 1
     }
   ]
